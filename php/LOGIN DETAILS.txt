@@ -1,0 +1,13 @@
+**Database Name: carrentalp**
+
+**Customer Login Details**
+
+Username: haris@
+Password: haris
+
+
+**Employee Login Details**
+
+Username: admin@crs
+Password: admin
+
